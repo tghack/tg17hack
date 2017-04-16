@@ -1,8 +1,8 @@
 # Auto
-**Points: 150**
+**Points: 200**
 
 **Author: PewZ**
 
-Can you solve 10 binaries in a row?
+Can you solve 5 binaries in a row?
 
 `nc auto.tghack.no 2270`
