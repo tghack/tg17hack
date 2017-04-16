@@ -1,5 +1,5 @@
 # Server reversing
-**Points: ??**
+**Points: 75**
 
 **Author: hptk**
 
