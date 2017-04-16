@@ -1,9 +1,9 @@
-# overflow 1
+# Overflowme
 **Points: 100**
 
 **Author: PewZ**
 
-Overflow me please.
+Overflow me, please.
 
 `nc overflow.tghack.no 5063`
 
