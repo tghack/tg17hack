@@ -1,5 +1,5 @@
 # leakme
-**Points: 120**
+**Points: 100/200**
 
 **Author: PewZ**
 
