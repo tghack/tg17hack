@@ -18,3 +18,5 @@ NX        : ENABLED
 PIE       : ENABLED
 RELRO     : FULL
 ```
+
+**Hint 1:** No read, no hint! Just kidding. ptrace is your friend. Don't bruteforce, ASLR is active and the binary is PIE.
