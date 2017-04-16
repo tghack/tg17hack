@@ -1,5 +1,5 @@
 # Close Encounter
-**Points: 100**
+**Points: 125**
 
 **Author: PewZ**
 
