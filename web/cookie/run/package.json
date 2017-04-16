@@ -1,0 +1,17 @@
+{
+  "name": "cookie",
+  "version": "1.0.0",
+  "description": "Easy Cookie CTF task",
+  "author": "hptk",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.11.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel-node cookie.js"
+  }
+}
