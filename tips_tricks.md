@@ -1,4 +1,4 @@
-#Tips & Tricks
+# Tips & Tricks
 This page is meant to help you on your journey of becoming a 1337 hacker (in CTFs). We will tell you about a few tools that will help you on your way. A part of the hacker training is to get your black belt in google-foo. You need to train your google-foo skills, so we can not provide you with much information on how to use the tools! As all hackers know, the learning curve in hacking is tremendously steep, but when your hacker and google skills arrive at a certain level, the thirst for knowledge is hard to stop and you suddenly obtain your black belt in google-foo.
 
 
