@@ -45,7 +45,7 @@ Are you a beginner? Don't be afraid! We give you this gift to start your hacker 
 * [pwnable.kr](http://pwnable.kr/) contains exploit puzzles.
 * [cryptopals crypto challenges](https://cryptopals.com/sets/1) contains, as its name says, crypto challenges. 
 * If someone know about some nice pages for learning more hacking, please tell us!
-
+* [Sploitfun](https://sploitfun.wordpress.com/), containing nice writeups and other exploit information.
 
 ---
 
