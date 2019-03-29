@@ -1,4 +1,4 @@
-#Unrecognizable writeup
+# Unrecognizable writeup
 
 The picture contains the hex-representation of a binary file. The executable outputs the flag. 
 
